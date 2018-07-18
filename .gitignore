@@ -96,3 +96,8 @@ ENV/
 
 # Ignore any files and directories that begin with the word "local"
 local*
+
+# Saved keras model files
+*.h5
+
+logs/
